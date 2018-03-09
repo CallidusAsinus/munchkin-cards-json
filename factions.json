@@ -1,86 +1,50 @@
 [
     {
-        "code": "adam",
+        "name": "NoFaction",
+        "code": "nofaction",
         "color": "000000",
-        "is_mini": true,
-        "name": "Adam",
-        "side_code": "runner"
+        "side_code": "munchkin"
     },
     {
-        "code": "anarch",
-        "color": "FF4500",
-        "is_mini": false,
-        "name": "Anarch",
-        "side_code": "runner"
-    },
-    {
-        "code": "apex",
+        "name": "Bard",
+        "code": "bard",
         "color": "000000",
-        "is_mini": true,
-        "name": "Apex",
-        "side_code": "runner"
+        "side_code": "munchkin"
     },
     {
-        "code": "criminal",
-        "color": "4169E1",
-        "is_mini": false,
-        "name": "Criminal",
-        "side_code": "runner"
+        "name": "Cleric",
+        "code": "cleric",
+        "color": "000000",
+        "side_code": "munchkin"
     },
     {
-        "code": "haas-bioroid",
-        "color": "8A2BE2",
-        "is_mini": false,
-        "name": "Haas-Bioroid",
-        "side_code": "corp"
-    },
-    {
-        "code": "jinteki",
-        "color": "DC143C",
-        "is_mini": false,
-        "name": "Jinteki",
-        "side_code": "corp"
-    },
-    {
-        "code": "nbn",
-        "color": "FF8C00",
-        "is_mini": false,
-        "name": "NBN",
-        "side_code": "corp"
-    },
-    {
-        "code": "neutral-corp",
-        "color": "808080",
-        "is_mini": false,
         "name": "Neutral",
-        "side_code": "corp"
-    },
-    {
-        "code": "neutral-runner",
-        "color": "808080",
-        "is_mini": false,
-        "name": "Neutral",
-        "side_code": "runner"
-    },
-    {
-        "code": "shaper",
-        "color": "32CD32",
-        "is_mini": false,
-        "name": "Shaper",
-        "side_code": "runner"
-    },
-    {
-        "code": "sunny-lebeau",
+        "code": "neutral",
         "color": "000000",
-        "is_mini": true,
-        "name": "Sunny Lebeau",
-        "side_code": "runner"
+        "side_code": "munchkin"
     },
     {
-        "code": "weyland-consortium",
-        "color": "006400",
-        "is_mini": false,
-        "name": "Weyland Consortium",
-        "side_code": "corp"
+        "name": "Ranger",
+        "code": "ranger",
+        "color": "000000",
+        "side_code": "munchkin"
+    },
+    {
+        "name": "Thief",
+        "code": "thief",
+        "color": "000000",
+        "side_code": "munchkin"
+    },
+    {
+        "name": "Warrior",
+        "code": "warrior",
+        "color": "000000",
+        "side_code": "munchkin"
+    },
+    {
+        "name": "Wizard",
+        "code": "wizard",
+        "color": "000000",
+        "side_code": "munchkin"
     }
 ]
