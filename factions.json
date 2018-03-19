@@ -1,50 +1,44 @@
 [
     {
-        "name": "NoFaction",
-        "code": "nofaction",
-        "color": "000000",
-        "side_code": "munchkin"
-    },
-    {
         "name": "Bard",
         "code": "bard",
-        "color": "000000",
+        "color": "F38C23",
         "side_code": "munchkin"
     },
     {
         "name": "Cleric",
         "code": "cleric",
-        "color": "000000",
+        "color": "F2D54B",
         "side_code": "munchkin"
     },
     {
         "name": "Neutral",
         "code": "neutral",
-        "color": "000000",
+        "color": "B9B9BB",
         "side_code": "munchkin"
     },
     {
         "name": "Ranger",
         "code": "ranger",
-        "color": "000000",
+        "color": "93C349",
         "side_code": "munchkin"
     },
     {
         "name": "Thief",
         "code": "thief",
-        "color": "000000",
+        "color": "89539E",
         "side_code": "munchkin"
     },
     {
         "name": "Warrior",
         "code": "warrior",
-        "color": "000000",
+        "color": "E63231",
         "side_code": "munchkin"
     },
     {
         "name": "Wizard",
         "code": "wizard",
-        "color": "000000",
+        "color": "33C2EA",
         "side_code": "munchkin"
     }
 ]
