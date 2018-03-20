@@ -52,7 +52,7 @@
         "position": 195,
         "code": "weapon",
         "name": "Weapon",
-        "is_subtype": false,
+        "is_subtype": true,
         "side_code": "munchkin"
     }
 ]
