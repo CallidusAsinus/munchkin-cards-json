@@ -1,10 +1,6 @@
 [
     {
-        "code": "corp",
-        "name": "Corp"
-    },
-    {
-        "code": "runner",
-        "name": "Runner"
+        "code": "munchkin",
+        "name": "Munchkin"
     }
 ]
